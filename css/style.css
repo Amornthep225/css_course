@@ -1,0 +1,51 @@
+
+body{
+    font-size: 22px
+}
+
+main{
+    font-family: 'Caveat', cursive;
+    font-family: 'Delicious Handrawn', cursive;
+    font-family: 'Fasthand', cursive;
+    font-family: 'Noto Sans Thai', sans-serif;
+    font-family: 'Rubik Iso', cursive;
+}
+.highlight{
+    background-color: blue;
+}
+#pchild {
+    color: rgb(0, 241, 0);
+}
+ /* ul .li-class{
+    font-size: 40px;
+    color: purple;
+
+}
+ul{
+    list-style-type:circle;
+    text-align:center;
+    list-style-position: inside;
+    color: chartreuse;
+    font-size: 23px;
+    font-weight: 900;
+    list-style-image: url(/images/checklist.png);
+}
+ul li:last-chil{}
+ul li:not(:last-child){
+    color:pink;
+} */
+a{
+    font-size: 44px;
+    color:rgb(100, 100,100)
+}
+a:focus{
+    color: rgb(0, 4, 255);
+}
+a:hover{
+    color: rgb(4, 217, 0);
+    text-decoration: none;
+}
+a:active{
+    color: rgb(255, 0, 0);
+}
+/* css display */

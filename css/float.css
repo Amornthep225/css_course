@@ -1,0 +1,36 @@
+body{
+    font-size: 1.5rem;
+    font-family: "Roboto",sans-serif;
+    font-family: 'Caveat', cursive;
+    font-family: 'Delicious Handrawn', cursive;
+    font-family: 'Fasthand', cursive;
+    font-family: 'Noto Sans Thai', sans-serif;
+    font-family: 'Rubik Iso', cursive;
+}
+
+.block{
+    width: 30vw;
+    height: 30vw;
+    background-color: black;
+    color: whitesmoke;
+    padding: 1rem;
+}
+.left{
+    float: left;
+    margin-right: 10px;
+}
+.right{
+    float: right;
+    margin-left: 10px;
+}
+.clear{
+    clear: both;
+
+}
+section{
+    background-color: bisque;
+    border: 1px solid red;
+    padding: 1rem;
+    overflow: auto;
+    /* display: flow-root; */
+}
